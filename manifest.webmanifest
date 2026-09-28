@@ -1,7 +1,7 @@
 {
   "name": "midicn · 乐器图鉴",
   "short_name": "乐器图鉴",
-  "description": "【批次 M4】西洋 95 + 中国八音 70 + 电子 35 + 世界 40 + 人声 12。零实拍照片，全 SVG。",
+  "description": "乐器图鉴 —— 西洋、中国、电子与世界乐器，附音域、发声原理与自绘的剖面图示。",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

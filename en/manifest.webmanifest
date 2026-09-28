@@ -1,7 +1,7 @@
 {
   "name": "midicn · Instruments",
   "short_name": "Instruments",
-  "description": "【批次 M4】西洋 95 + 中国八音 70 + 电子 35 + 世界 40 + 人声 12。零实拍照片，全 SVG。",
+  "description": "An illustrated atlas of instruments — Western, Chinese, electronic and world — with range charts, how each one makes its sound, and hand-drawn diagrams.",
   "start_url": "../en/",
   "scope": "./",
   "display": "standalone",
