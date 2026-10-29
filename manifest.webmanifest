@@ -1,6 +1,6 @@
 {
   "name": "midicn · 乐器图鉴",
-  "short_name": "乐器图鉴",
+  "short_name": "乐器",
   "description": "乐器图鉴 —— 西洋、中国、电子与世界乐器，附音域、发声原理与自绘的剖面图示。",
   "start_url": "./",
   "scope": "./",
