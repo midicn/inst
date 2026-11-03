@@ -1,0 +1,35 @@
+# MIDI音乐 · 乐器图鉴
+
+> 听音乐，学音乐，做音乐。
+
+查阅乐器结构、发声方式、音域与演奏方法。
+
+这是网站内容入口索引。收录与引用不改变原文、曲目、音色或歌词的许可；本文件不授予模型训练权。
+This curated discovery index grants no model-training or third-party material rights.
+
+## 网站与使用说明
+
+- [MIDI音乐：站点与使用说明](https://home.midicn.com/about/): 品牌、分站、来源与反馈。
+
+## 内容入口
+
+- [乐器图鉴 · midicn](https://inst.midicn.com/): 查阅乐器结构、发声方式、音域与演奏方法。
+- [无伴奏合唱 · 乐器图鉴](https://inst.midicn.com/a-cappella/): 没有乐器，人声自成一整个乐队——「无伴奏」其实是一场历史误会
+- [手风琴 · 乐器图鉴](https://inst.midicn.com/accordion/): 手动风箱驱动自由簧的便携乐器，风箱压力直接控制力度
+- [艾捷克 · 乐器图鉴](https://inst.midicn.com/aijieke/): 琴箱是个球 —— 而球里还蒙着一层看不见的皮
+- [中音长笛 · 乐器图鉴](https://inst.midicn.com/alto-flute/): G 调移调长笛，管更长更粗，音色柔和气声重
+- [中音萨克斯 · 乐器图鉴](https://inst.midicn.com/alto-saxophone/): 单簧片驱动一根圆锥金属管，是木管两大分类维度的交叉点
+- [乐砧 · 乐器图鉴](https://inst.midicn.com/anvil/): 真铁砧或仿制品制成的体鸣乐器，用于模仿冶炼与机械场景
+- [ARP 2600 · 乐器图鉴](https://inst.midicn.com/arp-2600/): 半模块化 —— 预接线但可覆盖，开进中学大学的第三条路
+- [阿丁克拉鼓 · 乐器图鉴](https://inst.midicn.com/atumpan/): 王的舌头 —— 一对鼓替整个宫廷说话
+- [Auto-Tune · 乐器图鉴](https://inst.midicn.com/auto-tune/): 修正到极致就是风格 —— 地震波算法找油，找到的是跑调的人声
+- [巴拉风 · 乐器图鉴](https://inst.midicn.com/balafon/): 名字是一个动作 —— 弹奏这架木头琴的整套手艺
+- [班多钮 · 乐器图鉴](https://inst.midicn.com/bandoneon/): 德制双音键钮方箱手风琴，却成了阿根廷探戈的国音
+- [板鼓 · 乐器图鉴](https://inst.midicn.com/bangu/): 一张只有五厘米在响的鼓 —— 它凭什么指挥整个戏班
+- [梆子 · 乐器图鉴](https://inst.midicn.com/bangzi/): 两根木棒，给一整个声腔起了名字
+- [板胡 · 乐器图鉴](https://inst.midicn.com/banhu/): 与二胡同族，只把共鸣体的皮换成了一块木板 —— 而这块板写进了它的名字里
+- [班苏里笛 · 乐器图鉴](https://inst.midicn.com/bansuri/): 一根竹子、六个指孔——音准靠滚管与半孔
+
+## English
+
+- [MIDI Music](https://home.midicn.com/en/): Listen, learn and make music.
